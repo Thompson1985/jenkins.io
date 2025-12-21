@@ -25,4 +25,4 @@ end
 gem "concurrent-ruby", "~> 1.1"
 
 # for releases.rss.ruby
-gem 'rss', '>= 0.3.1'
+gem 'rss', '>= 0.3.2'
